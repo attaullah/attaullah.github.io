@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Shikarpur, Pakistan"
 ---
 
-This is a draft course description for CSXC-06: Artificial Intelligence taught in Spring 2023.
+This is a draft course description for CSC-06: Artificial Intelligence taught in Spring 2023.
 
 Course content
 ======
