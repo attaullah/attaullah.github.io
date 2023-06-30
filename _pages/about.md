@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Attaullah, an Assistant Professor at The Shaikh Ayaz University, SShikarpur in the Department of Computer Science. I’m a Machine Learning pratitioner. My research, teaching, and broader service are all grounded in the idea that science and technology, which are directed, operated, and maintained in certain ways (and not in other ways), by people in and outside of institutions.
+Hi! I’m Attaullah, an Assistant Professor at  [The Shaikh Ayaz University, Shikarpur](https://saus.edu.pk)  in the Department of Computer Science. I’m a Machine Learning pratitioner. My research, teaching, and broader service are all grounded in the idea that science and technology, which are directed, operated, and maintained in certain ways (and not in other ways), by people in and outside of institutions.
 
 My background and history
 ======
-I received my Ph.D from the [University of Waikato](https://waikato.ac.nz/), my MS from the [Sukkur-IBA University ](https://iba-suk.edu.pk/), and my BS in the Computer Science at the [National University Computer and Emerging Sciences ](https://nu.edu.pk/). For just under five years after receiving my Ph.D, I was at the Berkeley Institute for Data Science as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series.
+I received my Ph.D from the [University of Waikato](https://waikato.ac.nz/), my MS from the [Sukkur-IBA University ](https://iba-suk.edu.pk/), and my BS in the Computer Science at the [National University Computer and Emerging Sciences ](https://nu.edu.pk/). 
+<!-- For just under five years after receiving my Ph.D, I was at the Berkeley Institute for Data Science as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series. -->
 
 My research
 ======
- use qualitative, quantitative, and computational methods to holistically investigate socio-technical systems of technology and knowledge production. I have a particular focus on decentralized communities and institutions, such as open source software, scientific research, peer production platforms (like Wikipedia), and social media sites. Most of my previous work has focused on Wikipedia, where I’ve studied t
+I research interest lies in investigating how Unsupervised Deep Learning can help in supervised learning tasks, as we have very much unlabelled data available in Semi-supervised paradigm.
+ <!-- use qualitative, quantitative, and computational methods to holistically investigate socio-technical systems of technology and knowledge production. I have a particular focus on decentralized communities and institutions, such as open source software, scientific research, peer production platforms (like Wikipedia), and social media sites. Most of my previous work has focused on Wikipedia, where I’ve studied t -->
 
 <!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
 
