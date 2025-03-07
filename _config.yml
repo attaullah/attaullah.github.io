@@ -84,11 +84,11 @@ author:
   avatar           : "my_profile.png"
   bio              : "Assistant Professor of Computer Science at The Shaikh Ayaz University"
   location         : "Shikarpur, Sindh, Pakistan"
-  employer         :
+  employer         : "The Shaikh Ayaz University, Shikarpur"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.pk/citations?user=ypw8QqAAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.co.in/citations?user=-p-1aEQAAAAJ"
   email            : "attaullah[at]saus[dot]edu[dot]pk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Attaullah-Sahito"
   uri              :
   bitbucket        :
   codepen          :
