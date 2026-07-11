@@ -58,5 +58,5 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
  -->
- If the embedded PDF below does not load, you can <u><a href="https://attaullah.github.io/files/Attaullah-CV-2025.pdf">download it here.</a></u>
- <embed src="https://attaullah.github.io/files/Attaullah-CV-2025.pdf" type="application/pdf" width="100%" />
+ If the embedded PDF below does not load, you can <u><a href="https://attaullah.github.io/files/Attaullah-CV-2026.pdf">download it here.</a></u>
+ <embed src="https://attaullah.github.io/files/Attaullah-CV-2026.pdf" type="application/pdf" width="100%" />
