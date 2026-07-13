@@ -46,22 +46,22 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
  -->
- If the embedded PDF below does not load, you can <u><a href="https://attaullah.github.io/files/Attaullah-CV-2023.pdf">download it here.</a></u>
- <embed src="https://attaullah.github.io/files/Attaullah-CV-2023.pdf" type="application/pdf" width="100%" />
+ If the embedded PDF below does not load, you can <u><a href="https://attaullah.github.io/files/Attaullah-CV-2026.pdf">download it here.</a></u>
+ <embed src="https://attaullah.github.io/files/Attaullah-CV-2026.pdf" type="application/pdf" width="100%" />
