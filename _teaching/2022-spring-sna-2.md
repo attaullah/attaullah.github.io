@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Shikarpur, Pakistan"
 ---
 
-This is a draft course description for ITC-05: System and Network Administration taught in Spring 2022.
+ITC-05: System and Network Administration is an undergraduate course I taught in Spring 2022.
 
 Course content
 ======

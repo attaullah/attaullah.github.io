@@ -1,14 +1,14 @@
 ---
-title: "CE-02: Computer Graphicse (Fall 2022)"
+title: "CE-02: Computer Graphics (Fall 2022)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-cg-3
 venue: "The Shaikh Ayaz University, Department of CS"
-date: 2022-01-08
+date: 2022-08-01
 location: "Shikarpur, Pakistan"
 ---
 
-This is a draft course description for CE-02: Computer Graphicse taught in Fall 2022.
+CE-02: Computer Graphics is an undergraduate course I taught in Fall 2022.
 
 Course content
 ======

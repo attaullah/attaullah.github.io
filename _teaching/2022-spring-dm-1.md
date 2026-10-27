@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Shikarpur, Pakistan"
 ---
 
-This is a draft course description for CE-08: Data Mining taught in Spring 2022.
+CE-08: Data Mining is an undergraduate course I taught in Spring 2022.
 
 Course content
 ======

@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Shikarpur, Pakistan"
 ---
 
-This is a draft course description for CE III: Machine Learning  taught in Spring 2023.
+CE III: Machine Learning is an undergraduate course I taught in Spring 2023.
 
 Course content
 ======

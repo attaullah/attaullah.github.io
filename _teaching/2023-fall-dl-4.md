@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-dl-4
 venue: "The Shaikh Ayaz University, Department of CS"
-date: 2023-01-08
+date: 2023-08-01
 location: "Shikarpur, Pakistan"
 ---
 
-This is a draft course description for CE III: Deep Learning  taught in Fall 2023.
+CE III: Deep Learning is an undergraduate course I taught in Fall 2023.
 
 Course content
 ======
